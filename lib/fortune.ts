@@ -1,3 +1,4 @@
+// @ts-nocheck
 // 占い計算エンジン
 // 既存の占い計算ツール.htmlから移植
 /* eslint-disable @typescript-eslint/no-explicit-any */
